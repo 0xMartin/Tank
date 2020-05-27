@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="2">
+        <file>
+            <url>src/tank/GameManager.java</url>
+            <bookmark id="2">
+                <name/>
+                <line>419</line>
+                <key/>
+            </bookmark>
+        </file>
+        <file>
+            <url>src/tank/engine/objects/Tank.java</url>
+            <bookmark id="1">
+                <name/>
+                <line>293</line>
+                <key/>
+            </bookmark>
+        </file>
+    </editor-bookmarks>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/D:/Programovani/Java/Projekty/2019/hry/Tank/Kod/Tank/src/tank/GameManager.java</file>
+            <file>file:/D:/Programovani/Java/Projekty/2019/hry/Tank/Kod/Tank/src/tank/Game.java</file>
+        </group>
+    </open-files>
+</project-private>

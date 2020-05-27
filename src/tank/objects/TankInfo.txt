@@ -1,0 +1,3 @@
+Tank1,Tank2,Tank3,Tank4,Tank5 = Heavy tanks
+Tank6,Tank7,Tank8,Tank9,Tank10 = Tankdestroyers
+Tank11,Tank12,Tank13,Tank14,Tank15 = Light tanks
